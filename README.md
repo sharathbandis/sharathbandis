@@ -57,6 +57,4 @@ With a B.Tech in Computer Science (AI & ML) and a background that spans both dee
 
 ---
 
-## 📫 Let's Connect!
-* **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com)
-* **Email:** [Your Email Address]
+
